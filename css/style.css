@@ -1,4 +1,12 @@
+
 img{
-	height: 200px;
-	width: 300px;
+	width:100%;
+	height: auto;
+}
+h5{
+	text-align: justify; 
+}
+
+p{
+	text-align: justify;
 }
